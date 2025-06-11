@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|c:\\users\\durga sai prakash\\source\\repos\\finservices_ado_dashboard\\finservices_ado_dashboard\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\pages\\dashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\pages\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\pages\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\pages\\dashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\logs\\apiloggings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\logs\\apiloggings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\finservices_ado_dashboard\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059B3360-82F4-4A60-BEE5-B6BD2994670E}|Finservices_ado_dashboard\\Finservices_ado_dashboard.csproj|solutionrelative:finservices_ado_dashboard\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Site.Master",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Site.Master",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Site.Master",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-11T03:28:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx.cs",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx.cs",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx.cs",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:26:23.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-11T03:24:14.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Pages\\Dashboard.aspx.designer.cs",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Pages\\Dashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:23:24.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APILoggings.cs",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Logs\\APILoggings.cs",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Logs\\APILoggings.cs",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Logs\\APILoggings.cs",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Logs\\APILoggings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:18:12.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Site.Master.cs",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Site.Master.cs",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Site.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:18:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Finservices_ado_dashboard\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\durga sai prakash\\source\\repos\\Finservices_ado_dashboard\\Finservices_ado_dashboard\\Global.asax.cs",
+              "RelativeToolTip": "Finservices_ado_dashboard\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:17:43.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
